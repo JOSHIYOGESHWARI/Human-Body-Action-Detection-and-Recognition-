@@ -215,15 +215,18 @@ Through this project, I gained practical experience in:
 ---
 
 ## 📸 Project Screenshots
+<img width="608" height="349" alt="image" src="https://github.com/user-attachments/assets/c451e1a0-83ef-41a8-99a3-cb7ac3a86fd5" />
 
-> Add screenshots of your application here.
+<img width="376" height="314" alt="image" src="https://github.com/user-attachments/assets/34e20778-ceb5-4d2f-922a-e851ae711ffa" />
 
-Example:
+<img width="242" height="170" alt="image" src="https://github.com/user-attachments/assets/8dfea456-e6ed-4275-8b3f-9296712fcabd" />
 
-- Home Page
-- Upload Screen
-- Prediction Result
-- Live Tracking Window
+<img width="471" height="330" alt="image" src="https://github.com/user-attachments/assets/ac226ff6-2534-45d9-8eca-eacb9a7a58a9" />
+
+
+
+
+
 
 ---
 
@@ -244,9 +247,9 @@ Example:
 
 Java Backend Developer | AI & Machine Learning Enthusiast
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 💻 GitHub: *(Add your GitHub URL)*
-- 📧 Email: *(Add your Email)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/yogeshwari-joshi-21182a21b/)*
+- 💻 GitHub: *(https://github.com/JOSHIYOGESHWARI)*
+- 📧 Email: *(joshiy1257@gmail.com)*
 
 ---
 
